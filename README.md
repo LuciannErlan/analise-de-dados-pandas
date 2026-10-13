@@ -48,7 +48,7 @@ Este repositório contém os projetos, scripts e estudos práticos de Análise d
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/LuciannErlan/analise-de-dados-pandas.git
    ```
 
 2. **Instale as dependências:**
@@ -62,3 +62,4 @@ Este repositório contém os projetos, scripts e estudos práticos de Análise d
    python estudando_dados_excel.py
    python estudando_dados_csv.py
    ```
+
