@@ -22,7 +22,7 @@
 import pandas as pd
 
 # Lendo a base de dados
-df = pd.read_csv("Base_de_dados_Aula2ateAula7/supermarket_sales1.csv", sep=";", parse_dates=["Date"])
+df = pd.read_csv("Base_de_dados_csv/supermarket_sales1.csv", sep=";", parse_dates=["Date"])
 print(df.head())
 
 print(df.info())

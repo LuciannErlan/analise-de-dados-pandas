@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Lendo a base de dados
-df = pd.read_excel("Base_de_dados_Aula1/Vendas.xlsx")
+df = pd.read_excel("Base_de_dados_excel/Vendas.xlsx")
 print(df.head(5))
 
 # Visualizando as 5 últimas linhas
