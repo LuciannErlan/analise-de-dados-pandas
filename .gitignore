@@ -1,0 +1,23 @@
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
